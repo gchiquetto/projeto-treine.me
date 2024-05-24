@@ -14,8 +14,9 @@
 <br>
 
 <p align="center">
-  <img alt="Treine.me" src="assets/preview.jpg" width="100%">
+  <img alt="Treine.me" src="images/Captura de tela 2024-05-24 193742.png" width="100%">
 </p>
+<br>
 
 ## 🚀 Tecnologias
 
